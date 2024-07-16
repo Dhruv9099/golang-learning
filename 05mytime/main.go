@@ -37,6 +37,7 @@ func main() {
 //  zeroed storage
 
 // 2. make():
+
 // allocate memory and INIT
 // you will get memory address
 // non- zeroed storage
