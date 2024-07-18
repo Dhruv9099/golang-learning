@@ -11,6 +11,7 @@ Printf:
     The Printf function is more versatile as it allows formatted printing. You use format specifiers to define how you want the output to be displayed.
 
 ## Format Specifiers
+
 Format specifiers define how a value should be formatted when printed. Here are some commonly used ones:
 
 1. %v: Default format.
@@ -116,4 +117,4 @@ output:
 
 Understanding how to use Println, Printf, and various format specifiers can greatly enhance your ability to debug and interact with your Go programs. The %v specifier is particularly useful for its versatility, and exploring other specifiers like %+v, %#v, and %q can provide even more control over your output.
 
-# Happy coding!
+## Happy coding

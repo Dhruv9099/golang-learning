@@ -6,6 +6,7 @@ import "fmt"
 func main() {
 	fmt.Println("It is 02Variables.go file. ")
 	var username string = "Dhruv Maisuria"
+
 	// fp
 	fmt.Println(username)
 
@@ -16,8 +17,8 @@ func main() {
 	var isLoggedIn bool = true
 	fmt.Println(isLoggedIn)
 	// ff
-	fmt.Printf("Variable is of type: %T \n", isLoggedIn)
 	fmt.Printf("%T \n", isLoggedIn)
+	fmt.Printf("Variable is of type: %T \n", isLoggedIn)
 
 	// integer
 	var smallVal int = 9099

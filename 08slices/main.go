@@ -27,6 +27,9 @@ func main() {
 
 	fruitList = (fruitList[1:2])
 	fmt.Println("FruitList[1:2]", fruitList)
+	fruitList = (fruitList[1:])
+	fmt.Println("FruitList[1:]", fruitList)
+
 	fmt.Printf("\n")
 	highScores := make([]int, 4)
 	highScores[0] = 523
